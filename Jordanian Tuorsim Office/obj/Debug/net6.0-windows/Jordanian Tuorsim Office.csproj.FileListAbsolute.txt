@@ -1,0 +1,40 @@
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\Jordanian Tuorsim Office.exe
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\Jordanian Tuorsim Office.deps.json
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\Jordanian Tuorsim Office.runtimeconfig.json
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\Jordanian Tuorsim Office.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\Jordanian Tuorsim Office.pdb
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian Tuorsim Office.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian_Tuorsim_Office.Form1.resources
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian_Tuorsim_Office.Properties.Resources.resources
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian Tuorsim Office.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian Tuorsim Office.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian Tuorsim Office.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian Tuorsim Office.AssemblyInfo.cs
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian Tuorsim Office.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian Tuorsim Office.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\refint\Jordanian Tuorsim Office.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian Tuorsim Office.pdb
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian Tuorsim Office.genruntimeconfig.cache
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\ref\Jordanian Tuorsim Office.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian_Tuorsim_Office.Amman.resources
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian_Tuorsim_Office.Jarash.resources
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian_Tuorsim_Office.Aqaba.resources
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian_Tuorsim_Office.Petra.resources
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian_Tuorsim_Office.DeadSea.resources
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian_Tuorsim_Office.Login.resources
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian_Tuorsim_Office.testform.resources
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\Jordanian Tuorsim Office\Jordanian Tuorsim Office\obj\Debug\net6.0-windows\Jordanian Tuorsim Office.csproj.CopyComplete
